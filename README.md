@@ -1,2 +1,2 @@
-# Android_Say-TahminEt
+# Android_SayiTahminEt
 Android sayı tahmin uygulaması
